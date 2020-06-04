@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\transfernodemsk-pract2\transfernodes-pract2\MoscowInstitute.WebService\obj\Debug\netcoreapp3.1\MoscowInstitute.WebService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\transfernodemsk-pract2\transfernodes-pract2\MoscowInstitute.WebService\obj\Debug\netcoreapp3.1\MoscowInstitute.WebService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\transfernodemsk-pract2\transfernodes-pract2\MoscowInstitute.WebService\obj\Debug\netcoreapp3.1\MoscowInstitute.WebService.AssemblyInfo.cs
+C:\Users\User\Desktop\transfernodemsk-pract2\transfernodes-pract2\MoscowInstitute.WebService\obj\Debug\netcoreapp3.1\MoscowInstitute.WebService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\transfernodemsk-pract2\transfernodes-pract2\MoscowInstitute.WebService\obj\Debug\netcoreapp3.1\MoscowInstitute.WebService.MvcApplicationPartsAssemblyInfo.cache
