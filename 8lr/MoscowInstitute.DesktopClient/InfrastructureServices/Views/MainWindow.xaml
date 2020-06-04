@@ -1,0 +1,35 @@
+﻿<Window x:Class="MoscowInstitute.DesktopClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoscowInstitute.DesktopClient"
+        mc:Ignorable="d"
+        Title="MoscowInstitute" Height="450" Width="800">
+    <Grid TextBlock.FontFamily="Century Gothic" TextBlock.FontSize="14">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <ListBox Grid.Column="0" Padding="5" Background="YellowGreen" Foreground="White" ItemsSource="{Binding Institutes}" SelectedItem="{Binding CurrentInstitute}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5">
+                        <TextBlock FontSize="14" TextWrapping="Wrap" Text="{Binding Path = ShortName}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <StackPanel Grid.Column="1" DataContext="{Binding CurrentInstitute}">
+            <TextBlock FontSize="24" Padding="2" Text="Подробная информация"></TextBlock>
+            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding ShortName}"></TextBlock>
+            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding LegalAddress}"></TextBlock>
+            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding WebSite}"></TextBlock>
+            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding ChiefName}"></TextBlock>
+        </StackPanel>
+    </Grid>
+
+</Window>
+
