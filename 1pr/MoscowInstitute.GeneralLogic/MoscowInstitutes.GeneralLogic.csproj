@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootShortNamespace>MoscowTransport</RootShortNamespace>
+  </PropertyGroup>
+
+    <ItemGroup>
+    <Folder Include="DomainServices\" />
+    <Folder Include="InfrastructureServices\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\transfernodemsk-pract1\transfernodes-pract1\MoscowInstitute.GeneralLogic\bin\Debug\netstandard2.1\MoscowInstitutes.GeneralLogic.deps.json
+C:\Users\User\Desktop\transfernodemsk-pract1\transfernodes-pract1\MoscowInstitute.GeneralLogic\bin\Debug\netstandard2.1\MoscowInstitutes.GeneralLogic.dll
+C:\Users\User\Desktop\transfernodemsk-pract1\transfernodes-pract1\MoscowInstitute.GeneralLogic\bin\Debug\netstandard2.1\MoscowInstitutes.GeneralLogic.pdb
+C:\Users\User\Desktop\transfernodemsk-pract1\transfernodes-pract1\MoscowInstitute.GeneralLogic\obj\Debug\netstandard2.1\MoscowInstitutes.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\transfernodemsk-pract1\transfernodes-pract1\MoscowInstitute.GeneralLogic\obj\Debug\netstandard2.1\MoscowInstitutes.GeneralLogic.AssemblyInfo.cs
+C:\Users\User\Desktop\transfernodemsk-pract1\transfernodes-pract1\MoscowInstitute.GeneralLogic\obj\Debug\netstandard2.1\MoscowInstitutes.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\transfernodemsk-pract1\transfernodes-pract1\MoscowInstitute.GeneralLogic\obj\Debug\netstandard2.1\MoscowInstitutes.GeneralLogic.dll
+C:\Users\User\Desktop\transfernodemsk-pract1\transfernodes-pract1\MoscowInstitute.GeneralLogic\obj\Debug\netstandard2.1\MoscowInstitutes.GeneralLogic.pdb
